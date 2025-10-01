@@ -1,1 +1,1 @@
-# applied_algorithm
+# Applied Algorithm Homework Solutions
